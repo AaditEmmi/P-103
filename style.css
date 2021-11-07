@@ -1,0 +1,29 @@
+body{
+    color: black;
+    background-color: orange;
+    
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.nameofobjects{
+    color: red;
+    
+}
+#Camera{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+}
+#results{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+}
+#Reslut_object_name{
+    color: black;
+}
+#Result_Accuracy{
+    color: black;
+}
